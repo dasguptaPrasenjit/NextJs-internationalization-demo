@@ -1,0 +1,4 @@
+{
+  "welcome": "Willkommen in unserer mehrsprachigen App",
+  "description": "Dies ist eine Demonstration der Internationalisierung in Next.js mit Sub-Path-Routing-Strategie. Sie können zwischen verschiedenen Sprachen über das Dropdown-Menü in der Kopfzeile wechseln."
+}

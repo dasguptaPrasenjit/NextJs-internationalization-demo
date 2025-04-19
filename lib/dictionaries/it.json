@@ -1,0 +1,4 @@
+{
+  "welcome": "Benvenuti nella nostra app multilingue",
+  "description": "Questa è una dimostrazione dell'internazionalizzazione in Next.js utilizzando la strategia di routing dei sottopercorsi. Puoi passare da una lingua all'altra utilizzando il menu a discesa nell'intestazione."
+}
