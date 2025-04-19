@@ -4,6 +4,8 @@ This is a simple Next.js project demonstrating **internationalization (i18n)**. 
 
 > If you find this project helpful or interesting, please consider giving it a ⭐ on GitHub! Suggestions and improvements are always welcome 🙌
 
+>Check out the working example here - https://next-js-internationalization-demo.vercel.app
+
 ---
 
 ## 🚀 Features
