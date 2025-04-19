@@ -11,7 +11,7 @@ This is a simple Next.js project demonstrating **internationalization (i18n)**. 
 - Internationalized routing (e.g., `/en-US`, `/de-DE`, `/fr-FR`)
 - Language-specific content loading
 - Dynamic language detection via route params
-- Built with latest Next.js (v15+) & `/app` directory
+- Built with latest Next.js (v13+) & `/app` directory
 
 ---
 
